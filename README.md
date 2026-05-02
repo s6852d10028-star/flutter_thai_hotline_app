@@ -3,7 +3,6 @@
 ## โปรเจ็ก สายด่วนTHAILAND
 
 <kbd><img width="250" alt="localhost_52131_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/29d76570-2b29-4f96-8638-de1f7a7ca7f2" /></kbd>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="250" alt="localhost_52131_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/814b3e99-01cb-45dd-a113-f664f5fef7cb" /></kbd>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <kbd><img width="250" alt="localhost_52131_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/0bee702e-828d-4cc3-9cb4-9d198e59fcd1" /></kbd>
